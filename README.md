@@ -40,10 +40,8 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 4) Raquel da Conseição
 5) Nicollas Alarino
 6) Gabriel Lourenço
-7) 
-8) 
-9) 
-10) 
+   
+   
 
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
