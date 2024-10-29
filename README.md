@@ -34,11 +34,16 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 [Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Davi Teixeira
+2) Fernado Lacerda
+3) Evelyn Bandeira
+4) Raquel da Conseição
+5) Nicollas Alarino
+6) Gabriel Lourenço
+7) 
+8) 
+9) 
+10) 
 
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
